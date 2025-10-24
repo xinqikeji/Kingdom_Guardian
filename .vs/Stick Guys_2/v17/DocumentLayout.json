@@ -1,0 +1,481 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Stick Guys_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|d:\\unityproject\\stick guys_2\\assets\\panicswitch\\scripts\\ui\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\menuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\levelloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\levelloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\quest\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\quest\\questmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\maxreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\maxreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\Assets\\AppMetrica\\AppMetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:Assets\\AppMetrica\\AppMetrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\appmetevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\appmetevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\gui kit casual game\\extensions\\uiparticle\\uiparticlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\gui kit casual game\\extensions\\uiparticle\\uiparticlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Desktop\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ui\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\tutorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ui\\upgrades\\warriorscoreupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\upgrades\\warriorscoreupgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\seconddev\\sdktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\seconddev\\sdktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\seconddev\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\seconddev\\shopwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\seconddev\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\seconddev\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\seconddev\\dyad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\seconddev\\dyad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\spells\\randomspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\spells\\randomspell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\seconddev\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\seconddev\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\player\\mortira\\mortira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\player\\mortira\\mortira.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\spells\\minecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\spells\\minecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\fbanalytic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\fbanalytic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ui\\upgrades\\upgradedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\upgrades\\upgradedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ads\\randomchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ads\\randomchest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ads\\chestpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ads\\chestpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C67D32AD-ACDE-3743-B28E-2195EEF86E54}|MaxSdk.Scripts.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\maxsdk\\scripts\\maxsdklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C67D32AD-ACDE-3743-B28E-2195EEF86E54}|MaxSdk.Scripts.csproj|solutionrelative:assets\\maxsdk\\scripts\\maxsdklogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\core\\ads\\adsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\core\\ads\\adsbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\assets\\panicswitch\\scripts\\ui\\upgrades\\incomemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:assets\\panicswitch\\scripts\\ui\\upgrades\\incomemoney.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|D:\\UnityProject\\Stick Guys_2\\Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8155845D-F49F-BFC1-4D04-AB55312ED330}|Assembly-CSharp.csproj|solutionrelative:Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelLoading.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\LevelLoading.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\LevelLoading.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\LevelLoading.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\LevelLoading.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:56:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Quest\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Quest\\QuestManager.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Quest\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Quest\\QuestManager.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAswNQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:09:53.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RandomSpell.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Spells\\RandomSpell.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Spells\\RandomSpell.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Spells\\RandomSpell.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Spells\\RandomSpell.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADgv2oAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:22:55.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DYAD.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\DYAD.cs",
+              "RelativeDocumentMoniker": "Assets\\SecondDev\\DYAD.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\DYAD.cs",
+              "RelativeToolTip": "Assets\\SecondDev\\DYAD.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAnwK4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:04:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cebianlan.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\cebianlan.cs",
+              "RelativeDocumentMoniker": "Assets\\SecondDev\\cebianlan.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\cebianlan.cs",
+              "RelativeToolTip": "Assets\\SecondDev\\cebianlan.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T07:18:05.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shopwindow.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\Shopwindow.cs",
+              "RelativeDocumentMoniker": "Assets\\SecondDev\\Shopwindow.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\Shopwindow.cs",
+              "RelativeToolTip": "Assets\\SecondDev\\Shopwindow.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:40:22.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\GameUI.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\GameUI.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\GameUI.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwMwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:50:06.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SDKTest.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\SDKTest.cs",
+              "RelativeDocumentMoniker": "Assets\\SecondDev\\SDKTest.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\SDKTest.cs",
+              "RelativeToolTip": "Assets\\SecondDev\\SDKTest.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAwJcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:43:20.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarriorsCoreUpgrade.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\WarriorsCoreUpgrade.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\WarriorsCoreUpgrade.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\WarriorsCoreUpgrade.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\WarriorsCoreUpgrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:56:23.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\MenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\MenuUI.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\MenuUI.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\MenuUI.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:49:59.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MAXReward.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\MAXReward.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\MAXReward.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\MAXReward.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\MAXReward.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:01:25.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ByteGameAdManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\ByteGameAdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\SecondDev\\ByteGameAdManager.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\SecondDev\\ByteGameAdManager.cs",
+              "RelativeToolTip": "Assets\\SecondDev\\ByteGameAdManager.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAADwv7QBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:49:10.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mortira.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Player\\Mortira\\Mortira.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Player\\Mortira\\Mortira.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Player\\Mortira\\Mortira.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Player\\Mortira\\Mortira.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:39:58.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tutorial.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Tutorial.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\Tutorial.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Tutorial.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\Tutorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:43:57.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADwv0AAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:03:33.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppMetrica.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeDocumentMoniker": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\AppMetrica\\AppMetrica.cs",
+              "RelativeToolTip": "Assets\\AppMetrica\\AppMetrica.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:27:37.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppMetEvents.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\AppMetEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\AppMetEvents.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\AppMetEvents.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\AppMetEvents.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:05:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MineController.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Spells\\MineController.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Spells\\MineController.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Spells\\MineController.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Spells\\MineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:40:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GA_SpecialEvents.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs",
+              "RelativeToolTip": "Assets\\GameAnalytics\\Plugins\\Scripts\\Events\\GA_SpecialEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T05:15:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FBAnalytic.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\FBAnalytic.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\FBAnalytic.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\FBAnalytic.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\FBAnalytic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T06:28:28.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpgradeDetails.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\UpgradeDetails.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\UpgradeDetails.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\UpgradeDetails.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\UpgradeDetails.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAkwGAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:59:36.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Purchaser.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Purchaser.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Purchaser.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Purchaser.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Purchaser.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:16:29.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RandomChest.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\ADS\\RandomChest.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\ADS\\RandomChest.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\ADS\\RandomChest.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\ADS\\RandomChest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:34:05.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChestPickUp.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\ADS\\ChestPickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\ADS\\ChestPickUp.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\ADS\\ChestPickUp.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\ADS\\ChestPickUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:33:35.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdsButton.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Ads\\AdsButton.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\Core\\Ads\\AdsButton.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\Core\\Ads\\AdsButton.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\Core\\Ads\\AdsButton.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:42:39.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MaxSdkLogger.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\MaxSdk\\Scripts\\MaxSdkLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\MaxSdk\\Scripts\\MaxSdkLogger.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\MaxSdk\\Scripts\\MaxSdkLogger.cs",
+              "RelativeToolTip": "Assets\\MaxSdk\\Scripts\\MaxSdkLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:45:03.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IncomeMoney.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\IncomeMoney.cs",
+              "RelativeDocumentMoniker": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\IncomeMoney.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\IncomeMoney.cs",
+              "RelativeToolTip": "Assets\\PanicSwitch\\Scripts\\UI\\Upgrades\\IncomeMoney.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:02:39.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIParticleSystem.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Stick Guys_2\\Assets\\GUI Kit Casual Game\\Extensions\\UIParticle\\UIParticleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\GUI Kit Casual Game\\Extensions\\UIParticle\\UIParticleSystem.cs",
+              "ToolTip": "D:\\UnityProject\\Stick Guys_2\\Assets\\GUI Kit Casual Game\\Extensions\\UIParticle\\UIParticleSystem.cs",
+              "RelativeToolTip": "Assets\\GUI Kit Casual Game\\Extensions\\UIParticle\\UIParticleSystem.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAjwKQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:23:26.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cebianlan.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\cebianlan.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\cebianlan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:50:55.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

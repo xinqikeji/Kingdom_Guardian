@@ -1,0 +1,39 @@
+{
+    "appid": "tt95f8e3450af06c9707",
+    "projectname": "Stick Guys Defense",
+    "unity": {
+        "build": {
+            "webgl": "D:\\UnityProject\\Stick Guys_2\\wbgl\\webgl_package-20250821_162825.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "2",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": "",
+        "unityEngineVersion": "2021.3.14f1c1",
+        "arch": "both"
+    },
+    "setting": {
+        "urlCheck": true
+    },
+    "condition": {
+        "game": {
+            "current": 1755867678434,
+            "list": [
+                {
+                    "id": 1755867678434,
+                    "name": "555",
+                    "query": "clickid=sdfsdf54645",
+                    "scene": "022001",
+                    "launchFrom": "general_search",
+                    "location": "ecommerce",
+                    "mockUpdateType": "Noupdate"
+                }
+            ]
+        }
+    }
+}
